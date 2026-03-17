@@ -297,7 +297,7 @@ def _parse_search_results(markdown: str, max_results: int = 5) -> list[dict]:
     "Dylan",
     "Enhanced web search & browsing via headless browser (Crawl4AI)",
     "1.0.0",
-    "https://github.com/your-repo/astrbot-plugin-browser",
+    "https://github.com/DylanLim1999/astrbot-plugin-browse",
 )
 class BrowserPlugin(Star):
     def __init__(self, context: Context):
