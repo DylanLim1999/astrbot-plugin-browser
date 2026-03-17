@@ -1,0 +1,7 @@
+name: astrbot-plugin-browser
+display_name: "增强浏览器搜索"
+description: "基于 Crawl4AI 无头浏览器的增强网页搜索与全文抓取插件，为 LLM 提供 web_search_enhanced 和 web_browse 两个工具"
+author: Dylan
+version: "1.0.0"
+repo: ""
+astrbot_version: ">=4.5.7"
